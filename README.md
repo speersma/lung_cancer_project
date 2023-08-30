@@ -35,7 +35,7 @@ Open an SQL query tool window or frame.
   | Score the model using test data
   | Make prediction ang evaluate the accuracy
 
-  #To evaluate the death count by lung cancer and new cancer count information by Tableau Visualization in the yer 2016- 2020
+  # To evaluate the death count by lung cancer and new cancer count information by Tableau Visualization in the yer 2016- 2020
 https://public.tableau.com/app/profile/stargily.bobby/viz/LungCancerPredictionsinUSA/Dashboard1?publish=yes
 
 | The data set from CDC.GOV  (https://gis.cdc.gov/Cancer/USCS/#/TobaccoUse/)
