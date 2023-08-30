@@ -22,3 +22,26 @@ Open an SQL query tool window or frame.
 
   right click TobaccoUse and import data using the tool. Make sure header is selected and , is the delimiter
    This file is tobacco1.csv 
+
+
+   # To find the accuracy of the lung cancer prediction data set by linear regression model
+   
+  |  Import and raed csv file
+  |  From the data set to find the count of male and female use pandas Dataframe
+  | To find what age gets more disease by using bin function
+  | Split the data into x and y for training and testin predictions
+  | Created a logistic regression model
+  | Fit (train) or model using the training data
+  | Score the model using test data
+  | Make prediction ang evaluate the accuracy
+
+  # To evaluate the death count by lung cancer and new cancer count information by Tableau Visualization in the yer 2016- 2020
+https://public.tableau.com/app/profile/stargily.bobby/viz/LungCancerPredictionsinUSA/Dashboard1?publish=yes
+
+Lung cancer causes and statistics(USA)
+| To evaluate the two main causes Alcohol Consumption and Tobacco, how to these related to Lungcancer.
+| Cancer is the second leading cause of death in the united states.
+
+  
+  
+  
