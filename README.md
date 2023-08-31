@@ -3,7 +3,7 @@
 
 Tableau visualization link
 by Sristy Pokhrel Acharya
-https://public.tableau.com/app/profile/sristy.pokhrel.acharya/viz/project4californiacancer/Story1
+https://public.tableau.com/app/profile/sristy.pokhrel.acharya/viz/project4californiacancer/Story2
 This visualization uses the data abstracted from data.gov and includes a CSV file on California cancer, cancer rates, and tobacco consumption habits of people in the USA. A story is created showing each and every possibility of data presentation and analysis is made. The dashboard is created named 'sources of data at the very beginning, which directly takes you to the sources of data. 
 
 # To create the data base in postgre SQL
