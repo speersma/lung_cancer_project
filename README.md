@@ -30,13 +30,21 @@ open MS code and run the two jupyter notebooks within the /Corey folder
 1. full_smoker_cost_projections
 2. non_smoker_cost_projections
 
-   # To find the accuracy of the lung cancer prediction data set by linear regression model
-   
-  |  Import and raed csv file
-  |  From the data set to find the count of male and female use pandas Dataframe
-  | To find what age gets more disease by using bin function
-  | Split the data into x and y for training and testin predictions
-  | Created a logistic regression model
+ # The lung cancer prediction data set by linear regression model
+ 1. Reads in the kaggle data from the PostGre relational database via a connection string and fetch cursor.
+  -uses SQL commands within Python to retreieve data and then process the information
+ 2. Split the data into x and y for training and testin predictions
+ 3. divide the data into a training and test data sets for the supervised machine learning model
+ 4. Uses the LinearRegression class from python sklearn module
+ 5. Displays the R2 or R squared scores
+    Displays the mean squared error
+    Displays the root mean squared error
+    Displays the standard deviation
+ 
+ # The logistic regression model
+| read in the csv file
+| train and split the data into x and y 
+  Created a logistic regression model
   | Fit (train) or model using the training data
   | Score the model using test data
   | Make prediction ang evaluate the accuracy
