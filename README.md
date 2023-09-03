@@ -41,7 +41,7 @@ open MS code and run the two jupyter notebooks within the /Corey folder
     Displays the root mean squared error
     Displays the standard deviation
  
- # The logistic regression model
+ # The lung cancer prediction data set by logistic regression model
 | read in the csv file
 | train and split the data into x and y 
   Created a logistic regression model
