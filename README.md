@@ -8,20 +8,22 @@ This visualization uses the data abstracted from data.gov and includes a CSV fil
 
 # To create the data base in postgre SQL
 Author Corey Monsma
-Turn on your postgre SQL sever
+1. Turn on your postgre SQL sever
 
-for the cost projections and smoker projections ipynb files it has to be specific to Corey Monsma machine or the connection string will need to change.
+for the full_smoker_cost_projections and non_smoker_cost_projections ipynb files.
+The connection string needs the user and password to be specific.
+If this changes please update your connection string.
 Create a database called Project_four
 
-Open an SQL query tool window or frame.
+2. Open an SQL query tool window or frame.
 
-  run the SQL scripts from the top of the files down.  createTable.sql and createTobacco.sql
+3.  run the SQL scripts from the top of the files down.  createTable.sql and createTobacco.sql
   to import data from the datasources in kaggle
 
-  right click InsCosts and import data using the tool. Make sure header is selected and , is the delimiter
+4. right click InsCosts and import data using the tool. Make sure header is selected and , is the delimiter
    This file is insurance_full_set.csv
 
-  right click TobaccoUse and import data using the tool. Make sure header is selected and , is the delimiter
+5. right click TobaccoUse and import data using the tool. Make sure header is selected and , is the delimiter
    This file is tobacco1.csv 
 
 # To run the multivariant linear regressions:
