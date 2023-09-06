@@ -63,7 +63,8 @@ https://public.tableau.com/app/profile/stargily.bobby/viz/LungCancerPredictionsi
 | To evaluate the two main causes Alcohol Consumption and Tobacco, how to these related to Lungcancer.
 | Cancer is the second leading cause of death in the united states.
 
-
+#group presentation slides link
+https://docs.google.com/presentation/d/1ZD8wypdzyYcjuM_OaXhHSusGvZITpp4p2nFaCKknBv0/edit#slide=id.gc6f80d1ff_0_0
   
   
   
